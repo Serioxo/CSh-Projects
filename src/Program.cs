@@ -3,7 +3,9 @@
 class main{
 
 
-    public void main(){
+    public void function(){
         
     }
+
+    
 }
